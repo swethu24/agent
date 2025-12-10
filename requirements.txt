@@ -1,0 +1,24 @@
+langgraph
+langchain
+langchain-openai
+langchain-anthropic
+langsmith
+
+# Vector Database
+chromadb==0.4.22
+sentence-transformers==2.3.1
+
+# API Tools
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Utilities
+pydantic==2.5.0
+tiktoken==0.5.2
+numpy==1.26.0
+
+anthropic
+langchain_anthropic
+# Optional: Alternative LLM Providers
+# langchain-google-genai==1.0.0
+# together==1.2.0
