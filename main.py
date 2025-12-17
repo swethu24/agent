@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from graph.lang_graph import create_workflow
 from tools.tool_parser import ToolParser
 from indexer.tool_indexer import ToolIndexer
-
+from config import tool_config, observability_config
 
 load_dotenv()
 
